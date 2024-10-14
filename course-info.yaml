@@ -1,0 +1,9 @@
+type: marketplace
+title: Python Module2 Lesson2
+language: English
+programming_language: Python
+environment: unittest
+content:
+  - Education
+  - Quiz
+  - Pracrice
